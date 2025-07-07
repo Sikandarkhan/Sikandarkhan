@@ -17,6 +17,7 @@ on:
 
 jobs:
   generate:
+    environment: prod  # <-- Add this line
     permissions: 
       contents: write
     runs-on: ubuntu-latest
