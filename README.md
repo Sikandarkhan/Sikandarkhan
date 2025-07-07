@@ -8,6 +8,9 @@ I'm a software engineer who is passionate about making open-source more accessib
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sikandarkhan&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://raw.githubusercontent.com/Sikandarkhan/Sikandarkhan/refs/heads/output/github-contribution-grid-snake.svg)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
