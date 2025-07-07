@@ -5,6 +5,10 @@
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sikandarkhan&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
