@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello, I'm Sikandar Khan 👨‍💻 </h1>
+<h1 align="center"> Hello, I'm Sikandar 👨‍💻 </h1>
 
 <h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
