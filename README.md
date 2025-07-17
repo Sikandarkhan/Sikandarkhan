@@ -13,15 +13,6 @@ I'm a software engineer who is passionate about making open-source more accessib
 ![](https://raw.githubusercontent.com/Sikandarkhan/Sikandarkhan/refs/heads/output/github-contribution-grid-snake.svg)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤔 About
--  **Working :**  Web Development :computer: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee :sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him/His :innocent:
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### 📊 Profile stats
@@ -29,7 +20,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 ---
 ⭐️ From [Sikandar](https://github.com/Sikandarkhan/)
 
-<!--### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const ashraf = {
@@ -45,4 +36,4 @@ const ashraf = {
         misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
-} -->
+} 
