@@ -5,6 +5,10 @@
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Sikandarkhan&style=flat-square&label=PROFILE+VIEWS)
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sikandarkhan&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
@@ -20,20 +24,4 @@ I'm a software engineer who is passionate about making open-source more accessib
 ---
 ⭐️ From [Sikandar](https://github.com/Sikandarkhan/)
 
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const ashraf = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
-} 
