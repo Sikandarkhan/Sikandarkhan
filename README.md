@@ -22,6 +22,6 @@ I'm a software engineer who is passionate about making open-source more accessib
 ### 📊 Profile stats
 [![Windard's github stats](https://github-readme-stats.vercel.app/api?username=Sikandarkhan&show_icons=true&theme=radical)](https://github.com/Sikandarkhan)
 ---
-⭐️ From [Sikandar](https://github.com/Sikandarkhan/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sikandarkhan)](https://git.io/streak-stats)
 
 
